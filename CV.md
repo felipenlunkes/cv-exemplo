@@ -36,71 +36,19 @@ $\hrulefill$
 
 ## Certificados
 
-#### **2023**
+#### **Ano**
 
-* Cursando Bootcamp: desenvolvedor Python - Faculdade XP Educação;
-
-#### **2022**
-
-* Java (143 min) - Let's Code (Santander Coders);
-* Minicamp Cloud & Cybersecurity (32 horas) - Faculdade XP Educação;
-
-#### **2017**
-
-* Introdução à Programação (3 horas) - Universidade Federal de Minas Gerais (UFMG);
-
-#### **2010**
-
-* Manutenção de notebooks - CNI;
-* Pacote Office - CNI;
-* Windows - CNI;
-* Web designer - CNI.
+* Certificados;
 
 $\hrulefill$
 
 ## Experiência profissional
 
-#### **2023-atualmente** | Desenvolvedor backend Jr. na UbiSafe/Orsegups Participaçõe S/A
+#### **Ano** | Experiência e local
 
-* Desenvolvedor backend Jr. (Java) atuando na UbiSafe/Orsegups Participações S/A a partir de junho de 2023.
+* Descrição da experiência;
 
-#### **2023** | Transição de carreira
-
-* Transição de carreira de biólogo (após conclusão do curso de mestrado acadêmico em Ciências da Saúde) para desenvolvedor backend (Java, C e Python). Venho me aprimorando, após minha formação técnica e trabalhos como freelancer, há mais de 2 anos. Meu portfólio pode ser encontrado [**aqui**](https://github.com/felipenlunkes). Desde 2012, trabalho como freelancer e desenvolvendo projetos pessoais (hobbies), adquirindo experiência em Assembly x86, Java, Python, C, SQL, shell script, entre outras tecnologias, linguagens e frameworks. Buscando uma oportunidade em Java, C ou Python.
-
-#### **2021-2023** | Estudante de mestrado - Instituto René Rachou/Fiocruz Minas - Belo Horizonte, Brasil
-
-* Mestrado em Ciências da Saúde pelo IRR/Fundação Oswaldo Cruz;
-* Projeto que visa caracterizar funcionalmente proteínas de *Schistosoma mansoni*.
-
-#### **2016-2020** | Aluno de Iniciação Científica - Instituto René Rachou/Fiocruz Minas - Belo Horizonte, Brasil
-
-* Estudante de Iniciação Científica (IC) durante a graduação.
-
-#### **2015-2016** | Experiência docente - CNPq e Escola Estadual Ordem e Progresso - Belo Horizonte, Brasil
-
-* Bolsista do Programa Institucional de Bolsas de Iniciação à Docência (PIBID), coordenado pela Pontifícia Universidade Católica de Minas Gerais (PUC Minas), atuando no ensino médio na Escola Estadual Ordem e Progresso (Belo Horizonte). As atividades realizadas incluem:
-  - Preparação de aulas teóricas e práticas para alunos de todos os anos do ensino médio;
-  - Preparação e correção de provas e atividades avaliativas;
-
-#### **2013-2015** | Desenvolvedor de software freelancer
-
-* Desenvolvedor de software freelancer, utilizando as linguagens Java, C e VisualBasic.Desenvolvedor de software freelancer, utilizando as linguagens Java, C e VisualBasic.
-
-**Competências: Visual Basic · C · Java**
-
-#### **2012-2015** | Técnico em manutenção de computadores freelancer
-
-* Técnico responsável pela manutenção de computadores de mesa e laptops, atuando como freelancer.Técnico responsável pela manutenção de computadores de mesa e laptops, atuando como freelancer.
-
-**Competências: Microsoft Windows · Hardware · Linux**
-
-#### **2013-2014** | Instrutor de Informática - Centro de Apoio Comunitário Serrano - Belo Horizonte, Brasil
-
-* Instrutor de informática para crianças e idosos durante e após a realização do curso técnico;
-* Bolsista associado ao programa federal TELECENTROS.BR, que visa democratizar o acesso à informática.
-
-**Competências: Microsoft Excel · MySQL · Docência · Linux · Java · Linguagens de programação**
+**Competências: Competência 1 · Competência 2 · Competência 3**
 
 $\hrulefill$
 
@@ -196,62 +144,30 @@ $\hrulefill$
 
 ## Habilidades
 
-* Fluente em português (nativo) e inglês avançado (C1);
-* Domínio no pacote Office (incluindo alternativas open-source) e pacotes estatísticos (R e GraphPad Prism);
-* Domínio em C, Java, Python, Assembly x86, shell script (sistemas Unix-like), SQL (veja meus **[projetos](https://github.com/felipenlunkes/felipenlunkes/blob/main/PROJECTS.pt.md))** e Markdown;
-* Familiaridade JavaScript, VisualBasic e C++;
-* Domínio em softwares de versionalização, como git (incluindo uso de linha de comando);
-* Autodidata em uma série de linguagens de programação;
-* Boa comunicação e trabalho em equipe;
+* Suas habilidades, em tópicos;
 
 $\hrulefill$
 
 ## Interesses e curiosidades
 
-* Interessado em história da computação, emulação e preservação de software histórico;
-* Colecionador de sistemas operacionais: do Version 1 Unix, passando pelo 86-DOS e Windows 1.0 até o Windows 11 e FreeBSD 13. Fale comigo sobre algum sistema operacional e eu provavelmente terei uma imagem de disco, disquete ou ISO;
-* Uso mais linha de comando que interface gráfica;
-* Proplayer de Minecraft e GhostWire: Tokyo.
+* Seus interesses, hobbies e curiosidades, em tópicos;
 
 $\hrulefill$
 
 ## Formação acadêmica
 
-#### **2021-2023** | **Mestrado em Ciências da Saúde - [Instituto René Rachou/Fiocruz Minas](https://portal.fiocruz.br/) - Belo Horizonte, Brasil**
+#### **Ano inicial-Ano final** | **Sua titulação (bacharel, mestre, doutor) - [Nome da instituição](link para o site da instituição) - Cidade, país**
 
-* Mestrado concluído em Ciências da Saúde pelo IRR/Fundação Oswaldo Cruz;
-* Projeto que visava caracterizar experimentalmente proteases catepsina D-like de Schistosoma mansoni como alvos terapêuticos para o desenvolvimento de novos fármacos, utilizando Biologia Molecular e Bioinformática.
+* Descrição da sua formação;
 
-#### **2016-2020** | **Graduação em Ciências Biológicas - [Universidade Federal de Minas Gerais](https://ufmg.br/) - Belo Horizonte, Brasil**
-
-* Graduação em Ciências Biológicas com ênfase em Biotecnologia e Saúde (Bioquímica, Biologia Molecular, Imunologia e Bioinformática);
-
-#### **2014** | Formação técnica interrompida em Computação Gráfica - Centro Universitário UNA
-
-* Formação técnica (PRONATEC) interrompida em Computação Gráfica;
-
-#### **2011-2023** | **Ensino Médio com Técnico em Informática - Escola Técnica Vital Brasil - Belo Horizonte, Brasil**
-
-* Formação técnica como desenvolvedor de software e análise de sistemas;
-* Contato com Pascal, C, HTML/CSS, SQL, Java e VisualBasic, além de disciplinas relacioandas a hardware e robótica;
-* 1 ano de formação nas áreas de programação em Java, C, Visual Basic, Análise de Sistemas, Lógica de programação e SQL.
-
-**Competências: Pascal · Robótica · x86 Assembly · Java · Programação (computação) · MySQL · Linguagens de programação · Linux · C · Análise de sistemas · Microsoft Excel · C (linguagem de programação) · Programação de computadores · Hardware**
+**Competências: Competência 1 · Competência 2**
 
 $\hrulefill$
 
 ## Prêmios e títulos
 
-* 2021:
-  - Primeiro colocado na seleção para mestrado do Programa de Pós-Graduação em Ciências da Saúde do Instituto René Rachou/Fiocruz Minas;
-* 2019:
-  - Destaque em apresentação oral na XXVII Reunião Anual de Iniciação Científica do Instituto René Rachou - Fiocruz Minas, Instituto René Rachou - Fiocruz Minas;
-* 2018:
-  - Destaque em apresentação oral na XXVI Reunião Anual de Iniciação Científica do Instituto René Rachou - Fiocruz Minas, Instituto René Rachou - Fiocruz Minas;
-* 2017:
-  - Melhor apresentação oral na IV Jornada da Pós-Graduação/XXV Reunião Anual de Iniciação Científica/XII Jornada do Programa de Vocação Científica do Centro de Pesquisas René Rachou/Fiocruz Minas, Centro de Pesquisas René Rachou;
-* 2016:
-  - Destaque acadêmico do 1° semestre de 2016 no curso de Ciências Biológicas - Licenciatura, Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+* Ano:
+  - Título do prêmio - Instituição que emitiu o certificado;
 
 $\hrulefill$
 
