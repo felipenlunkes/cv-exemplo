@@ -56,7 +56,11 @@ Você também pode executar o script [buildPDF.sh](buildPDF.sh), disponível no 
 ## Ir além
   
 Você também pode criar um currículo online sempre atualizado utilizando o GitHub Pages. Basta criar um repositório, criar um arquivo index.md com seu currículo em Markdown e ativar o GitHub Pages. Assim, a cada alteração, você sempre terá um currículo atualizado. E você pode adicionar links para as versões em PDF, que também podem ser adicionadas neste mesmo repositório. Aqui vai um exemplo, a minha versão online do currículo: [CV Felipe Lunkes](https://felipenlunkes.github.io/cv/).
+
+## LinkedIn
   
+Lembre-se de atualizar seu LinkedIn com certificados, experiência e formação acadêmica, além de adicionar seus projetos disponíveis em repositórios públicos, mesmo que estejam em seu currículo. Adicione um link para uma pasta compartilhada em seu Google Drive, Onedrive ou Dropbox contendo as versões em PDF ou adicione as versões em PDF em um repositório em seu GitHub e adicione o link em seu GitHub.
+
 ## Contato
 
 Qualquer dúvida, sinta-se a vontade em entrar em contato comigo **por email** em felipenldev@gmail.com.
