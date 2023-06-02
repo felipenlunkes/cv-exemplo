@@ -11,12 +11,14 @@ Esse repositório visa exemplificar a criação de um currículo legível (para 
 * texlive-latex-recommended 
 * texlive-latex-extra
 
-Para instalar as dependências, no Ubuntu/Debian/Pop!_OS, use, no terminal:
+Para instalar as dependências, no Ubuntu/Debian/Pop!_OS (ou no WLS2 para Windows 10 e 11), use, no terminal:
 
 ```shell
 sudo apt install pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra
 ```
 
+> É possível realizar a conversão para PDF no Windows, mas você precisará instalar os pacotes adicionais manualmente (`texlive-latex-base`, `texlive-latex-recommended` e `texlive-latex-extra`).
+  
 ## Editar o currículo e gerar versão em PDF
 
 Você pode editar o currículo utilizado como exemplo (meu currículo) e gerar a versão em PDF utilizando, no terminal:
