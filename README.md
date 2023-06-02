@@ -40,7 +40,7 @@ Após a edição, converta o arquivo para o formato PDF utilizando, no terminal:
 pandoc currículo.md -o currículo.pdf
 ```
 
-Você também pode executar o script buildPDF.sh, disponível no repositório, para gerar, em lote, mais de uma versão do seu currículo, usando, no terminal:
+Você também pode executar o script [buildPDF.sh](buildPDF.sh), disponível no repositório, para gerar, em lote, mais de uma versão do seu currículo, usando, no terminal:
 
 ```shell
 ./buildPDF.sh
