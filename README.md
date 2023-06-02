@@ -28,7 +28,7 @@ Durante a edição, tenha em mente:
 * Use `$\hrulefill$` como `<hr>`. A tag `<hr>` não é suportada, e para isso, entramos com uma tag LaTeX;
 * Use `<div align="justify">` para justificar o texto. A centralização (`<div align="center">`) não parece funcionar, entretanto;
 * Você pode alterar os parâmetros de fonte, no cabeçalho do arquivo, bem como a formatação e recuo da página;
-* Adicione um link para seu LinkedIn, GitHub e redes sociais profissionais (evite redes sociais voltadas a seu lado pessoal, como Instagram pessoal, mas use seu Instagram profissional, se tiver);
+* Adicione um link para seu `LinkedIn`, `GitHub` e demais `redes sociais profissionais` (evite redes sociais voltadas a seu lado pessoal, como Instagram ou Twitter pessoais, mas use seu Instagram ou Twitter profissionais, se tiver);
 * Adicione seus projetos mais relevantes separados por linguagem, framework ou tecnologia.
 
 Após a edição, converta o arquivo para o formato PDF utilizando, no terminal:
@@ -45,6 +45,10 @@ Você também pode executar o script buildPDF.sh, disponível no repositório, p
 
 > Esse script é útil para automatizar a conversão de mais de um currículo. O ideal é que você construa um currículo personalizada para cada área/vaga.
 
+## Ir além
+  
+Você também pode criar um currículo online sempre atualizado utilizando o GitHub Pages. Basta criar um repositório, criar um arquivo index.md com seu currículo em Markdown e ativar o GitHub Pages. Assim, a cada alteração, você sempre terá um currículo atualizado. E você pode adicionar links para as versões em PDF, que também podem ser adicionadas neste mesmo repositório.
+  
 ## Contato
 
 Qualquer dúvida, sinta-se a vontade em entrar em contato comigo **por email** em felipenldev@gmail.com.
