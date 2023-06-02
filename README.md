@@ -2,7 +2,7 @@
 
 <div align="justify">
 
-Esse repositório visa exemplificar a criação de um currículo legível (para humanos e robôs) em Markdown, além da sua conversão para PDF.
+Esse repositório visa exemplificar a criação de um currículo legível (para humanos e robôs) em Markdown, além da sua conversão para PDF. Esse formato é útil para oferecer um currículo sucinto, sem distrações e que pode ser processado por mecanismos automatizados de sites de cadastro e análise de currículo (já testei diversas vezes durante a minha busca por emprego).
 
 ## Dependências
 
