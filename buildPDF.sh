@@ -2,6 +2,8 @@
 #
 # Pacotes necessários para rodar o pandoc no Debian/Ubuntu
 # apt install pandoc texlive-latex-base texlive-latex-recommended texlive-latex-extra
+#
+# Escrito por Felipe Lunkes em 2023.
 
 # Vamos construir todas as versões do currículo
 
