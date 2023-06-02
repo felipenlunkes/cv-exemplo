@@ -20,7 +20,7 @@ sudo apt install pandoc texlive-latex-base texlive-latex-recommended texlive-lat
 
 > É possível realizar a conversão para PDF no Windows, mas você precisará instalar os pacotes adicionais manualmente (`texlive-latex-base`, `texlive-latex-recommended` e `texlive-latex-extra`).
   
-## Editar o currículo e gerar versão em PDF
+## Editar e formatar o currículo
 
 Você pode editar o currículo utilizado como exemplo (meu currículo) e gerar a versão em PDF.
 
@@ -32,6 +32,8 @@ Durante a edição, tenha em mente:
 * Adicione um link para seu `LinkedIn`, `GitHub` e demais `redes sociais profissionais` (evite redes sociais voltadas a seu lado pessoal, como Instagram ou Twitter pessoais, mas use seu Instagram ou Twitter profissionais, se tiver);
 * Adicione seus projetos mais relevantes separados por linguagem, framework ou tecnologia.
 
+# Gerar versão em PDF
+  
 Após a edição, converta o arquivo para o formato PDF utilizando, no terminal:
 
 ```shell
