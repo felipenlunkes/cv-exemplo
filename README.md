@@ -29,8 +29,9 @@ pandoc currículo.md -o currículo.pdf
 
 Durante a edição, tenha em mente:
 
-* Use `$\hrulefill$` como `<hr>`. A tag <hr> não é suportada, e para isso, entramos com uma tag LaTeX;
-* Use `<div align="justify">` para justificar o texto. A centralização não parece funcionar, entretanto;
+* Use `$\hrulefill$` como `<hr>`. A tag `<hr>` não é suportada, e para isso, entramos com uma tag LaTeX;
+* Use `<div align="justify">` para justificar o texto. A centralização (`<div align="center">`) não parece funcionar, entretanto;
+* Você pode alterar os parâmetros de fonte, no cabeçalho do arquivo.
 
 Você também pode executar o script buildPDF.sh, disponível no repositório, para gerar, em lote, mais de uma versão do seu currículo, usando, no terminal:
 
