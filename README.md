@@ -31,7 +31,7 @@ Durante a edição, tenha em mente:
 * Você pode alterar os parâmetros de fonte, no cabeçalho do arquivo, bem como a formatação e recuo da página;
 * Adicione um link para seu `LinkedIn`, `GitHub` e demais `redes sociais profissionais` (evite redes sociais voltadas a seu lado pessoal, como Instagram ou Twitter pessoais, mas use seu Instagram ou Twitter profissionais, se tiver);
 * Adicione seus projetos mais relevantes separados por linguagem, framework ou tecnologia. Tente sempre adicionar links para repositórios públicos, caso se trate de software livre.
-  - Para isso, adicione o nome do projeto entre `[]` seguindo do link entre parênteses, sem espaço, como abaixo:
+  - Para isso, adicione o nome do projeto entre `[]` seguindo do link entre parênteses, sem espaço. Isso é útil pois permite aos leitores do currículo acessar diretamente o seu projeto (o link    permanece na versão em PDF). Veja um exemplo:
   
 ```markdown
 * [Projeto 1](https://github.com/felipenlunkes/projeto-1)
