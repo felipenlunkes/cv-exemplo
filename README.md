@@ -1,6 +1,6 @@
 # Olá!
 
-<div align="justify">
+
 
 Esse repositório visa exemplificar a criação de um currículo legível (para humanos e robôs) em Markdown, além da sua conversão para PDF.
 
@@ -26,6 +26,11 @@ Você pode editar o currículo utilizado como exemplo (meu currículo) e gerar a
 ```shell
 pandoc currículo.md -o currículo.pdf
 ```
+
+Durante a edição, tenha em mente:
+
+* Use `$\hrulefill$` como `<hr>`. A tag <hr> não é suportada, e para isso, entramos com uma tag LaTeX;
+* Use `<div align="justify">` para justificar o texto. A centralização não parece funcionar, entretanto;
 
 Você também pode executar o script buildPDF.sh, disponível no repositório, para gerar, em lote, mais de uma versão do seu currículo, usando, no terminal:
 
