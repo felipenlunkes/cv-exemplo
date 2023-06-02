@@ -10,7 +10,7 @@ Esse repositório visa exemplificar a criação de um currículo legível (para 
 * texlive-latex-base
 * texlive-latex-recommended 
 * texlive-latex-extra
-* Um arquivo Markdown contendo seu currículo (pode usar [esta](CV.md) versão do meu currículo como exemplo.
+* Um arquivo Markdown contendo seu currículo (pode usar [esta](CV.md) versão do meu currículo como exemplo). ⚠️ Leia abaixo como formatar o documento!
 
 Para instalar as dependências, no Ubuntu/Debian/Pop!_OS (ou no WLS2 para Windows 10 e 11), use, no terminal:
 
