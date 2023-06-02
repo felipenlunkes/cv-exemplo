@@ -8,11 +8,11 @@ geometry: "left=2cm,right=2cm,top=1cm,bottom=2cm"
 
 <div align="center">
 
-# Felipe Miguel Nery Lunkes
-**[felipenldev@gmail.com](mailto:felipenldev@gmail.com)**
+# Seu nome completo aqui
+**[XXXXXXXX@gmail.com](mailto:XXXXXXXX@gmail.com)**
 
 
-Telefone: (31) 98100-7706
+Telefone: (DDD) XXXXX-XXXX
 
 Belo Horizonte, Brasil
 
