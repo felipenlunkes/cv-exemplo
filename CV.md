@@ -38,12 +38,28 @@ $\hrulefill$
 
 #### **Ano**
 
-* Certificados;
+* Certificados desse ano;
+  
+#### **Ano**
+
+* Certificados desse ano;
 
 $\hrulefill$
 
 ## Experiência profissional
 
+#### **Ano** | Experiência e local
+
+* Descrição da experiência;
+
+**Competências: Competência 1 · Competência 2 · Competência 3**
+  
+#### **Ano** | Experiência e local
+
+* Descrição da experiência;
+
+**Competências: Competência 1 · Competência 2 · Competência 3**
+  
 #### **Ano** | Experiência e local
 
 * Descrição da experiência;
@@ -156,16 +172,25 @@ $\hrulefill$
 
 ## Formação acadêmica
 
-#### **Ano inicial-Ano final** | **Sua titulação (bacharel, mestre, doutor) - [Nome da instituição](link para o site da instituição) - Cidade, país**
+#### **Ano inicial-ano final** | **Sua titulação (bacharel, mestre, doutor) - [Nome da instituição](link para o site da instituição) - Cidade, país**
 
 * Descrição da sua formação;
 
 **Competências: Competência 1 · Competência 2**
 
+#### **Ano inicial-ano final** | **Sua titulação (bacharel, mestre, doutor) - [Nome da instituição](link para o site da instituição) - Cidade, país**
+
+* Descrição da sua formação;
+
+**Competências: Competência 1 · Competência 2**
+  
 $\hrulefill$
 
 ## Prêmios e títulos
 
+* Ano:
+  - Título do prêmio - Instituição que emitiu o certificado;
+  
 * Ano:
   - Título do prêmio - Instituição que emitiu o certificado;
 
